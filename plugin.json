@@ -1,10 +1,9 @@
 {
   "spec": "soksak-spec-plugin@0.0.1",
   "id": "soksak-plugin-skeleton",
-  "name": "플러그인 스켈레톤",
+  "name": "\ud50c\ub7ec\uadf8\uc778 \uc2a4\ucf08\ub808\ud1a4",
   "version": "0.0.1",
-  "repo": "https://github.com/soksak-ai/soksak-plugin-skeleton.git",
-  "description": "soksak 플러그인 시작 템플릿 — 뷰 + 명령 + 이벤트 + 정리(subscriptions)의 최소 동작 예제. 완전 매뉴얼은 MANUAL.md.",
+  "description": "soksak \ud50c\ub7ec\uadf8\uc778 \uc2dc\uc791 \ud15c\ud50c\ub9bf \u2014 \ubdf0 + \uba85\ub839 + \uc774\ubca4\ud2b8 + \uc815\ub9ac(subscriptions)\uc758 \ucd5c\uc18c \ub3d9\uc791 \uc608\uc81c. \uc644\uc804 \ub9e4\ub274\uc5bc\uc740 MANUAL.md.",
   "entry": "main.js",
   "template": true,
   "permissions": [
@@ -17,9 +16,9 @@
         "id": "panel",
         "title": {
           "en": "Skeleton",
-          "ko": "스켈레톤"
+          "ko": "\uc2a4\ucf08\ub808\ud1a4"
         },
-        "icon": "▣",
+        "icon": "\u25a3",
         "placements": [
           "sidebar-right"
         ]
@@ -30,7 +29,7 @@
         "name": "ping",
         "title": {
           "en": "Ping",
-          "ko": "핑"
+          "ko": "\ud551"
         }
       }
     ]

@@ -1,0 +1,11 @@
+{
+  "name": "soksak-plugin-skeleton",
+  "private": true,
+  "version": "0.0.1",
+  "soksakRelease": {
+    "kind": "plugin",
+    "id": "soksak-plugin-skeleton",
+    "repository": "https://github.com/soksak-ai/soksak-plugin-skeleton",
+    "manifest": "release.json"
+  }
+}
